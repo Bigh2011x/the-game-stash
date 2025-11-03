@@ -201,7 +201,7 @@
                 const fileLink = document.createElement('a');
                 
                 // CORE LOGIC: Rename .nll to .zip for the download name
-                const downloadName = file.name.replace(/\.nll$/i, '.nll'); 
+                const downloadName = file.name.replace(/\.nll$/i, '.zip'); 
 
                 fileLink.download = downloadName; // This forces the browser to use the .zip name
                 fileLink.href = file.path;

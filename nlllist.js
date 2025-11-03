@@ -6,15 +6,15 @@
 const allNLLs = [
   {
     "name": "DeltaRune.nll",
-    "path": "Download/DeltaRune.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/DeltaRune.nll?download="
   },
   {
     "name": "DesktopGoose v0.31.nll",
-    "path": "Download/DesktopGoose v0.31.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/DesktopGoose%20v0.31.nll?download="
   },
   {
     "name": "Edenwound.nll",
-    "path": "Download/Edenwound.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Edenwound.nll"
   },
   {
     "name": "Friday Night Funkin'.nll",
@@ -22,42 +22,42 @@ const allNLLs = [
   },
   {
     "name": "Geometry Dash.nll",
-    "path": "Download/Geometry Dash.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Geometry%20Dash.nll?download="
   },
   {
     "name": "George and the Printer.nll",
-    "path": "Download/George and the Printer.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/George%20and%20the%20Printer.nll"
   },
   {
     "name": "Give Up the Ghost; a puzzle checklist.nll",
-    "path": "Download/Give Up the Ghost; a puzzle checklist.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Give%20Up%20the%20Ghost;%20a%20puzzle%20checklist.nll"
   },
   {
     "name": "Hardware Tycoon.nll",
-    "path": "Download/Hardware Tycoon.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Hardware%20Tycoon.nll"
   },
   {
     "name": "Hex of Steel; an RTS game set in WW2.nll",
-    "path": "Download/Hex of Steel; an RTS game set in WW2.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Hex%20of%20Steel;%20an%20RTS%20game%20set%20in%20WW2.nll"
   },
   {
     "name": "Little Chef.nll",
-    "path": "Download/Little Chef.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Little%20Chef.nll"
   },
   {
     "name": "Minato; Minesweeper but different.nll",
-    "path": "Download/Minato; Minesweeper but different.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Minato;%20Minesweeper%20but%20different.nll"
   },
   {
     "name": "Pumpkin Cafe Coffee Game Jam.nll",
-    "path": "Download/Pumpkin Cafe Coffee Game Jam.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Pumpkin%20Cafe%20Coffee%20Game%20Jam.nll"
   },
   {
     "name": "Scale the Depths Fishing.nll",
-    "path": "Download/Scale the Depths Fishing.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Scale%20the%20Depths%20Fishing.nll"
   },
   {
     "name": "Undertale.nll",
-    "path": "Download/Undertale.nll"
+    "path": "https://github.com/Bigh2011x/Bigh2011x.github.io/raw/refs/heads/main/Download/Undertale.nll"
   }
 ];
