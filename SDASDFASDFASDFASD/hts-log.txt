@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 07 Dec 2025 18:31:47 at https://html5.gamedistribution.com/rvvASMiM/0140599dec0645229f039926e9ae168c/index.html?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5nYW1lZmxhcmUuY29tLyIsInBhcmVudERvbWFpbiI6ImdhbWVmbGFyZS5jb20iLCJ0b3BEb21haW4iOiJnYW1lZmxhcmUuY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xOCJ9 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://html5.gamedistribution.com/rvvASMiM/0140599dec0645229f039926e9ae168c/index.html?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5nYW1lZmxhcmUuY29tLyIsInBhcmVudERvbWFpbiI6ImdhbWVmbGFyZS5jb20iLCJ0b3BEb21haW4iOiJnYW1lZmxhcmUuY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xOCJ9 -O1 "C:\Users\user\Downloads\SDASDFASDFASDFASD" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 17 links scanned, 16 files written (370646 bytes overall) [246468 bytes received at 61617 bytes/sec], 250944 bytes transferred using HTTP compression in 4 files, ratio 47%, 8.5 requests per connection
+(No errors, 0 warnings, 0 messages)
